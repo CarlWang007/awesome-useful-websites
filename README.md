@@ -296,6 +296,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [PDF2DOC](https://pdf2doc.com/) - Free online PDF to DOC converter.
 - [Online-Convert](https://www.online-convert.com/) - Convert media files online between different formats.
 - [JPG to PNG](https://jpg.to-png.com/) - Free file conversion tools for various formats.
+- [Free Online Image Tools: Resize, Crop, Convert & Compress in Seconds] (https://www.jpgpngimg.com/)-- Free Online Image Tools: Resize, Crop, Convert & Compress in Seconds
 - [Conversion-Tool](https://www.conversion-tool.com/) - Offers a wide range of free online conversion utilities.
 - [Zamzar](https://www.zamzar.com/) - Convert documents, images, videos & sound in 1100+ formats.
 - [Web2PDFConvert](https://www.web2pdfconvert.com/) - Convert web pages or HTML to PDF or image formats.
@@ -476,7 +477,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
 - [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
-- [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
+- [Sleep Calculator Ai ](https://www.sleepcalculatorai.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
 - [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
 
@@ -2131,6 +2132,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter.
 - [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
 - [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
+
+- ##qrcode
+- [free qrcode tools](https://www.qrcode-cat.com/)--Generate custom QR codes with qrcode-cat. Free, fast, and feature-rich, allowing customization of frames, colors, logos, and more for various data types like URLs, text, vCards, WiFi, and social media.
 
 <br>
 
