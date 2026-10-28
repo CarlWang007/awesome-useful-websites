@@ -597,6 +597,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Anime
 
+- [Anime Wordle](https://animewordle.org/) - Free daily anime character guessing game. A new mystery character every day, narrowed down with clue tiles for series, gender, hair color, eye color, genre and release year, plus dedicated modes for 27 franchises.
 - [Reddit Top Anime Streaming Sites](https://reddit.com/r/streamingAnime/wiki/topsites/) - Wiki page listing top anime streaming sites on Reddit.
 - [Reddit Legal Anime Streams](https://reddit.com/r/anime/wiki/legal_streams/) - Wiki page providing a list of legal anime streaming sites on Reddit.
 
